@@ -1,0 +1,16 @@
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/bin/Debug/net5.0/banco-pokemon
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/bin/Debug/net5.0/banco-pokemon.deps.json
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/bin/Debug/net5.0/banco-pokemon.runtimeconfig.json
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/bin/Debug/net5.0/banco-pokemon.runtimeconfig.dev.json
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/bin/Debug/net5.0/banco-pokemon.dll
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/bin/Debug/net5.0/ref/banco-pokemon.dll
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/bin/Debug/net5.0/banco-pokemon.pdb
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/obj/Debug/net5.0/banco-pokemon.csprojAssemblyReference.cache
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/obj/Debug/net5.0/banco-pokemon.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/obj/Debug/net5.0/banco-pokemon.AssemblyInfoInputs.cache
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/obj/Debug/net5.0/banco-pokemon.AssemblyInfo.cs
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/obj/Debug/net5.0/banco-pokemon.csproj.CoreCompileInputs.cache
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/obj/Debug/net5.0/banco-pokemon.dll
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/obj/Debug/net5.0/ref/banco-pokemon.dll
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/obj/Debug/net5.0/banco-pokemon.pdb
+/home/leandro/projetos/dio/banco-pokemon/banco-pokemon/obj/Debug/net5.0/banco-pokemon.genruntimeconfig.cache
